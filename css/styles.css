@@ -1,0 +1,10 @@
+body {
+    background: #FFE7BD;
+}
+h1, p {
+    text-align: center;
+}
+.navigation {
+    display: flex;
+    justify-content: space-around;
+}
